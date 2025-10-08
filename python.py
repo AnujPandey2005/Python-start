@@ -1,0 +1,1 @@
+print("hello world \nthis is my first code \n hope you like it")
