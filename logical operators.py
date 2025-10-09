@@ -10,4 +10,4 @@ print(20>10 or 30<20)
 
 # not operator
 print(not(20>10))
-# it will print false because 20 is greater than 10 but we used not operator so it will print false
+# it will print false because 20 is greater than 10 but we used not operator so it will print false 
